@@ -1,2 +1,3 @@
 # Bank Marketing Data Analysis
-  Machine Learning model to predict if a client will subscribe to the product, given his/her demographic and marketing campaign related information
+  Analyze the previous marketing strategies adopted by the Portuguese Bank, using the various machine learning algorithms and try to predict whether customer will buy the Bank’s term deposit or not. 
+  Recommended different better marketing strategies to the marketing team using feature importance maps and business intuition.
