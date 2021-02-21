@@ -5,7 +5,7 @@
 
 The main issues of the dataset are:
 
-    Preprocessing required to fill unknown values in the dataset
+    Preprocessing required to fill NA values
 
     Preprocessing required to decide on usage of categorical data along with continuous data
 
